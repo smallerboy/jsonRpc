@@ -1,0 +1,6 @@
+use_frameworks!
+target 'jsonPRC_Tests' do
+  pod 'jsonPRC', :path => '../'
+  
+  
+end
