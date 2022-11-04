@@ -1,5 +1,5 @@
 import Foundation
-import Commons
+import walletConnectCommons
 import Foundation
 
 public typealias RPCID = Either<String, Int64>

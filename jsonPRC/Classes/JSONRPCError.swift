@@ -1,4 +1,4 @@
-import Commons
+import walletConnectCommons
 
 public struct JSONRPCError: Error, Equatable, Codable {
     public let code: Int

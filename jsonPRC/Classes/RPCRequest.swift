@@ -1,4 +1,4 @@
-import Commons
+import walletConnectCommons
 
 /**
  TODO: Add documentation

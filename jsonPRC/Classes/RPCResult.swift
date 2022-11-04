@@ -1,5 +1,5 @@
 import Foundation
-import Commons
+import walletConnectCommons
 
 public enum RPCResult: Codable, Equatable {
     enum Errors: Error {
